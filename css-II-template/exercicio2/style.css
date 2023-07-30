@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  /* background-color: green; */
+  height: 10vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  border: solid 1px black;
+}
+main {
+  /* background-color: aqua; */
+  height: 80vh;
+  width: 200vw;
+  margin-top: 10vh;
+  border: solid 1px black;
+}
+footer {
+  /* background-color: orange; */
+  position: absolute;
+  height: 10vh;
+  width: 100vw;
+  border: solid 1px black;
+}
